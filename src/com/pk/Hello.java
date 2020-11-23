@@ -11,7 +11,7 @@ public class Hello {
 	    System.out.println("Hello from Vaishnavi!!");
 	    System.out.println("Hello from Mousam");
 	    mousam m = new mousam("Mousam",101,"Bangalore");
-	    System.out.println("Mousam : " + m);
+	    System.out.println("Mousam :  " + m);
 	}
 
 }
