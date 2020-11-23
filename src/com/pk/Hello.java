@@ -6,8 +6,9 @@ public class Hello {
 		// TODO Auto-generated method stub
         System.out.println("hello my name is mahesh karad");
 	    System.out.println("Hello from Vivek Doshi");
+	    System.out.println("Hello from Rakshit Jain");
+	    System.out.println("Hello from Ramakant!");
 	    System.out.println("Hello from Vaishnavi!!");
-	    
 	}
 
 }
