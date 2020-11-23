@@ -16,7 +16,7 @@ public class API842 {
 
 	@Override
 	public String toString() {
-		return "Details:  [EmpId=" + empId + ", Name=" + name + ", City=" + city + "]";
+		return "Details:  [EmpId=" + empId + ", name=" + name + ", city=" + city + "]";
 	}
 
 	public static void main(String[] args) {
