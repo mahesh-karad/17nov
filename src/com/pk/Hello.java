@@ -24,6 +24,9 @@ public class Hello {
 		// TODO Auto-generated method stub
         System.out.println("hello my name is mahesh karad");
 	    System.out.println("Hello from Vivek Doshi");
+	    Vivek v=new Vivek("Vivek",1,"Noida");
+	    System.out.println(v);
+	    
 	    System.out.println("Hello from Rakshit Jain");
 	    System.out.println("Hello from Ramakant!");
 	    System.out.println("Hello from Vaishnavi!!");
