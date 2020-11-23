@@ -7,6 +7,7 @@ public class Hello {
         System.out.println("hello my name is mahesh karad");
 	    System.out.println("Hello from Vivek Doshi");
 	    System.out.println("Hello from Vaishnavi!!");
+	    System.out.println("Hello from ruqaiya!!");
 	    
 	}
 
